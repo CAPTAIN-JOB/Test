@@ -1,0 +1,12 @@
+/* body {
+	background-image: url("https://unsplash.com/photos/black-and-gray-computer-motherboard-FZpCcPss9to");
+} */
+#logo {
+	height: 80px;
+	width: 450px;
+}
+.class {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
